@@ -3,3 +3,4 @@ elasticsearch
 requests
 requests-aws4auth
 pyyaml
+faker
