@@ -1,2 +1,2 @@
-url_base: 'https://testcluster.us-east-1.es.amazonaws.com'
+host: 'testcluster.us-east-1.es.amazonaws.com'
 region: 'us-east-1'

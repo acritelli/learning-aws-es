@@ -41,7 +41,7 @@ except Exception:
   logger.critical('Unable to open and load ./config.yaml. Exiting.')
   quit()
 
-URL_BASE = config['url_base']
+URL_BASE = f"https://{config['host']}"
 REGION = config['region']
 
 
